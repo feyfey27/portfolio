@@ -1,0 +1,20 @@
+h1 {
+	color: blue;
+	text-align: center;
+}
+
+p{
+	text-align: center;
+}
+span {
+	color: red;
+}
+
+#github-username {
+	color: purple;
+}
+
+h2 {
+	color: pink;
+	background-color: black;
+}
